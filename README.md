@@ -82,19 +82,22 @@ employee-portal/
 
 ## 📸 Screenshots
 
-### Login Page
+### 🔐 Login Page
 <img width="1903" height="913" alt="login " src="https://github.com/user-attachments/assets/f553cde2-7e83-433b-b9b3-9627d2213b93" />
 
-### Register Page
+### 📝 Register Page
 <img width="1890" height="908" alt="Register" src="https://github.com/user-attachments/assets/9ddf8502-7cf0-4983-9a4d-c28285fcb6d8" />
 
-### Employee Page
+### 👨‍💼 Employee Page
 <img width="1904" height="918" alt="Emp Dashboard " src="https://github.com/user-attachments/assets/64b029c5-662d-4599-b0fc-3d3278e68560" />
+
 <img width="1886" height="913" alt="Emp Profile " src="https://github.com/user-attachments/assets/6c683d41-9b35-4e01-8a4e-609eb5cefc25" />
+
 <img width="1886" height="910" alt="Emp Edit Profile " src="https://github.com/user-attachments/assets/df182c7b-0c6d-4163-b432-9e23182e1a36" />
 
-### Manager Page 
+### 📊 Manager Page 
 <img width="1900" height="910" alt="Manager Dashboard" src="https://github.com/user-attachments/assets/9d814cce-10d2-45ac-8668-121aa70be76e" />
+
 <img width="1900" height="907" alt="Manager Emp" src="https://github.com/user-attachments/assets/5faaae9c-d2f8-4704-bc85-aea143fe2f46" />
 
 ---
